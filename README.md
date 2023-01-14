@@ -1,2 +1,2 @@
 # BumperBallz
-A unity game that sucks, thx for dropping by.
+A unity game just for fun, thx for dropping by.
